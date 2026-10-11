@@ -5,3 +5,4 @@ LocalMind is a browser-based AI chat application that explores running language 
 The project focuses on bringing local AI to the web through a simple modern interface with the potential to support offline usage once the required models and resources are downloaded
 
 Built to explore the intersection of web development AI and privacy
+.
